@@ -40,7 +40,7 @@ movie-api/
 
 ## 📦 API Endpoints
 
-### ➕ Add a Single Movie
+### ➕ Add a Single Movie /Bulk
 `POST /api/movies`
 
 ```json
