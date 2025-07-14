@@ -50,7 +50,8 @@ movie-api/
   "summary": "A mind-bending thriller by Christopher Nolan..."
 }
 
-📦 Add Movies in Bulk
+### 📦 Add Movies in Bulk
+
 POST /api/movies/bulk
 
 [
